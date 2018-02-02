@@ -10,7 +10,7 @@
  *	- Carsten112 (Twitch-Chat)
  *  - Github <3 
  * 
- * Project on Github: 
+ * Project on Github: https://github.com/DrOpossum/TeamSpeak-Addon_Troll-Hunter
  */
 
 #ifdef _WIN32
