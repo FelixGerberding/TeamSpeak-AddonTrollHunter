@@ -5,9 +5,9 @@
  *
  *  - CoolerDing (Twitch-Chat)
  *  - Tango2K (Idea)
- *	- StackOverflow
- *	- TeamSpeak-Doku
- *	- Carsten112 (Twitch-Chat)
+ *  - StackOverflow
+ *  - TeamSpeak-Doku
+ *   - Carsten612 (Twitch-Chat)
  *  - Github <3 
  * 
  * Project on Github: https://github.com/DrOpossum/TeamSpeak-Addon_Troll-Hunter
